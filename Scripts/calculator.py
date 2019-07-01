@@ -1,5 +1,3 @@
-import re
-
 print("Welcome to Calcy\n")
 print("You can perform almost all the operations.\nJust keep evaluating results continuously.\nIf you want to calculate new set of results,\nclear the old results by typing 'Clear'\n");
 print("Type 'QUIT' to exit\n")
